@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Safora Travel AI",
+  "description": "A world-class travel AI agent powered by Gemini 2.5 Flash with deep Google Maps integration. Plan itineraries, discover hidden gems, and explore the world with real-time grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
